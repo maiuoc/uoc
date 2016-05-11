@@ -9,3 +9,14 @@ nbproject
 .settings
 vendor
 composer.phar
+LICENSE.txt
+README.md
+init_autoloader.php
+composer.lock
+composer.json
+data/
+module/Application/language/
+module/Application/src/
+module/Application/view/
+module/Application/Module.php
+public/
